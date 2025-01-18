@@ -1,0 +1,124 @@
+{
+  "rooms": [
+    {
+      "id": "1",
+      "name": "Deluxe Room",
+      "description": "A spacious room with ocean view, king-size bed, and modern amenities.",
+      "price": 100,
+      "imageUrl": "https://example.com/deluxe-room.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Standard Room",
+      "description": "A cozy room with a city view, queen-size bed, and all essential amenities.",
+      "price": 70,
+      "imageUrl": "https://example.com/standard-room.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Suite Room",
+      "description": "A luxurious suite with a large living area, separate bedroom, and a stunning panoramic view.",
+      "price": 200,
+      "imageUrl": "https://example.com/suite-room.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Single Room",
+      "description": "A budget-friendly room with a single bed and essential amenities for solo travelers.",
+      "price": 50,
+      "imageUrl": "https://example.com/single-room.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Penthouse",
+      "description": "A top-floor penthouse with a private terrace, hot tub, and a breathtaking city view.",
+      "price": 350,
+      "imageUrl": "https://example.com/penthouse.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Family Suite",
+      "description": "A spacious suite with two bedrooms, a living area, and a fully-equipped kitchen.",
+      "price": 180,
+      "imageUrl": "https://example.com/family-suite.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Beachfront Room",
+      "description": "A room right by the beach, with direct access to the shoreline, king-size bed, and a private balcony.",
+      "price": 150,
+      "imageUrl": "https://example.com/beachfront-room.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Garden View Room",
+      "description": "A peaceful room with a beautiful view of the hotel's garden, queen-size bed, and a work desk.",
+      "price": 80,
+      "imageUrl": "https://example.com/garden-view-room.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Business Suite",
+      "description": "A room designed for business travelers with a work desk, high-speed internet, and a comfortable bed.",
+      "price": 120,
+      "imageUrl": "https://example.com/business-suite.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Executive Room",
+      "description": "An upscale room with an executive desk, leather chairs, and access to the lounge.",
+      "price": 250,
+      "imageUrl": "https://example.com/executive-room.jpg"
+    }
+  ],
+  "reservations": [
+    {
+      "id": "1",
+      "roomId": 1,
+      "userName": "John Doe",
+      "checkInDate": "2025-02-01",
+      "checkOutDate": "2025-02-05",
+      "status": "Confirmed"
+    },
+    {
+      "id": "2",
+      "roomId": 2,
+      "userName": "Jane Smith",
+      "checkInDate": "2025-01-15",
+      "checkOutDate": "2025-01-20",
+      "status": "Pending"
+    },
+    {
+      "id": "04d4",
+      "roomId": "1",
+      "userName": "Parth",
+      "checkInDate": "2025-01-03",
+      "checkOutDate": "2025-01-04",
+      "status": "Confirmed"
+    },
+    {
+      "id": "18d1",
+      "roomId": "1",
+      "userName": "Parth",
+      "checkInDate": "2025-01-11",
+      "checkOutDate": "2025-01-12",
+      "status": "Confirmed"
+    },
+    {
+      "id": "c3bc",
+      "roomId": "1",
+      "userName": "Mitan",
+      "checkInDate": "2025-01-03",
+      "checkOutDate": "2025-01-04",
+      "status": "Pending"
+    },
+    {
+      "id": "e6fa",
+      "roomId": "1",
+      "userName": "Parth",
+      "checkInDate": "2025-01-11",
+      "checkOutDate": "2025-01-31",
+      "status": "Pending"
+    }
+  ]
+}
